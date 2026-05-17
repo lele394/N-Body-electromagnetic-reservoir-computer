@@ -1,5 +1,7 @@
 # NB-ERC: N-Body Electromagnetic Reservoir Computer
 
+> [Article](https://www.nebuleo.org/blog/electromag_reservoir_computer/)
+
 ## What It Does
 The NB-ERC is a **Physical Reservoir Computing (PRC)** experiment that replaces the traditional recurrent neural network (RNN) hidden layer with a 2D physics simulation of interacting charged particles. It uses classical Newtonian and electromagnetic dynamics to perform nonlinear feature extraction, successfully classifying MNIST digits by letting data "evolve" through simulated physics.
 
